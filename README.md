@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @artbenito--drummer/beatsmaker
+- 👋 Hi, I’m @artbenito-- drummer/ beatsmaker
 -
 - 🌱 I’m currently learning ...
-- <> I’m to collaborate on ...
-- 📫 How to reach me ...
+- <> I’m to collaborate on ...CRs
+- 📫 How to reach me 
 
 
 <!---
